@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SeleniumProjectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F782BC3C-C44E-4292-9877-720B4FC597DA}|SeleniumProjectTest.csproj|c:\\users\\hp\\source\\repos\\seleniumprojecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F782BC3C-C44E-4292-9877-720B4FC597DA}|SeleniumProjectTest.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SeleniumProjectTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SeleniumProjectTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:07:47.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
